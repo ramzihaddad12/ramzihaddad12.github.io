@@ -53,7 +53,7 @@ class Projects extends Component{
               This website
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
-                <Button colored ><a href="https://github.com/ramzihaddad12/" target="_blank">GitHub</a></Button>
+                <Button colored ><a href="https://github.com/ramzihaddad12/ramzihaddad12.github.io" target="_blank">GitHub</a></Button>
               </CardActions>
             </Card>
           </div>

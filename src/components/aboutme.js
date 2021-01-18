@@ -10,7 +10,7 @@ class Aboutme extends Component{
                     <p style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
                         My name is Ramzi Haddad, and I’m a Lebanese-American developer. Contrary to many folks in the software industry, I do not have a computer science background. I majored in Mechanical Engineering and obtained a B.E with distinction from the American University of Beirut in 2020. I am a self taught programmer that is passionate about implementing A.I systems in the real world.
                     <br/><br/>
-                    I also love football (real football not american football), chess, and videogames.</p>
+                    I also love football (real football not american football), chess, videogames, and Alfredo's pizza cafe.</p>
                 </div>
             </div>
         )
