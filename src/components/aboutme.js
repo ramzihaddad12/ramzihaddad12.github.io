@@ -8,7 +8,16 @@ class Aboutme extends Component{
                     <h2 style = {{fontFamily: 'monospace', fontSize: '55px', paddingLeft: '1em'}}> About Me</h2>
                     
                     <p style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
-                        My name is Ramzi Haddad, and I’m a Lebanese-American developer. Contrary to many folks in the software industry, I do not have a computer science background. I majored in Mechanical Engineering and obtained a B.E with distinction from the American University of Beirut in 2020. I am a self taught programmer that is passionate about implementing A.I systems in the real world.
+                        My name is Ramzi Haddad, and I’m a Lebanese-American developer. 
+                        I’m currently a Masters student in Computer Science at Northeatern University where I am 
+                        expanding my horizons and enhancing my software skills to become a better developer.
+                        I am passionate about building software applications for the real world from both a frontend and 
+                        a backend perspective.
+                        {/* Contrary to many folks in the software industry,
+                        I do not have a computer science background. 
+                        I majored in Mechanical Engineering and obtained a B.E with distinction 
+                        from the American University of Beirut in 2020. I am a self taught programmer 
+                        that is passionate about implementing A.I systems in the real world. */}
                     <br/><br/>
                     I also love football (real football not american football), chess, videogames, and Alfredo's pizza cafe.</p>
                 </div>
