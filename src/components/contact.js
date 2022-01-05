@@ -22,7 +22,7 @@ class Contact extends Component{
                             <ListItem>
                                 <ListItemContent style = {{fontSize: '25px', fontFamily: 'Anton'}}>
                                     <i className = "fa fa-phone-square" aria-hidden="true"/>
-                                    +961 71846229
+                                    +1 857 559 3920
                                 </ListItemContent>
                             </ListItem>
 
