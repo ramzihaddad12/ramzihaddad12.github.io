@@ -26,9 +26,9 @@ class Resume extends Component{
                 <h4 style={{color: 'grey'}}>Software Developer</h4>
                 <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
                 <h5>Address</h5>
-                <p>Beirut, Lebanon</p>
+                <p>Boston, MA</p>
                 <h5>Phone</h5>
-                <p>+961 71846229</p>
+                <p>+1 857 559 3920</p>
                 <h5>Email</h5>
                 <p>ramzi.haddad12@gmail.com</p>
                 <h5>Web</h5>
