@@ -55,7 +55,7 @@ class Projects extends Component{
           return (
             <div>
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://apk-s.io/wp-content/uploads/2020/12/Maze-Dungeon-Labyrinth-Game-Maze-Puzzle-Game-6.png) center / cover'}} >Maze Game</CardTitle>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://apk-s.io/wp-content/uploads/2020/12/Maze-Dungeon-Cover.jpg) center / cover'}} >Maze Game</CardTitle>
                 <CardText>
                 An action maze chase game using the MVC pattern in Java
                 </CardText>
@@ -82,6 +82,7 @@ class Projects extends Component{
                 <CardActions border style={{textAlign: 'center'}}>
                   <Button colored ><a href="https://github.com/ramzihaddad12/SchoolManagementSystem" target="_blank">GitHub</a></Button>
                 </CardActions>
+    
               </Card>
             </div>
           )
