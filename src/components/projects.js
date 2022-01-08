@@ -15,7 +15,7 @@ class Projects extends Component{
             <div className="projects-grid">
 
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/PacMan-AI/main/pacman.jpg) center / cover'}} >PacMan-AI</CardTitle>
+                <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/PacMan-AI/main/pacman.jpg) center / cover'}} >PacMan-AI</CardTitle>
                 <CardText>
                 Applying search and RL techniques to the Pac-Man video game using Python
                 </CardText>
@@ -61,7 +61,7 @@ class Projects extends Component{
                 An action maze chase game using the MVC pattern in Java
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                  <Button colored ><a href="https://ramzihaddad12.github.io/contact" target="_blank">Upon Request</a></Button>
+                Upon Request
                 </CardActions>
               </Card>
 
