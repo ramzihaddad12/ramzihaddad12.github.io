@@ -60,7 +60,7 @@ class Projects extends Component{
                 An action maze chase game using the MVC pattern in Java
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                  <Button colored >Upon Request</Button>
+                  Upon Request
                 </CardActions>
               </Card>
 
