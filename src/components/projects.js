@@ -53,7 +53,7 @@ class Projects extends Component{
           )
         } else if(this.state.activeTab === 1) {
           return (
-            <div>
+            <div className="projects-grid">
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://apk-s.io/wp-content/uploads/2020/12/Maze-Dungeon-Cover.jpg) center / cover'}} >Maze Game</CardTitle>
                 <CardText>
