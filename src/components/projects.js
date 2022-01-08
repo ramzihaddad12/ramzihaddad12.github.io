@@ -54,13 +54,14 @@ class Projects extends Component{
         } else if(this.state.activeTab === 1) {
           return (
             <div className="projects-grid">
+
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://previews.123rf.com/images/amarylle/amarylle1905/amarylle190500007/127107279-maze-game-design-element-labyrinth-with-stone-walls-in-dungeon-top-down-view-for-children-puzzle-gam.jpg?fj=1) center / cover'}} >Maze Game</CardTitle>
                 <CardText>
                 An action maze chase game using the MVC pattern in Java
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                  Upon Request
+                  <Button colored ><a href="https://ramzihaddad12.github.io/contact" target="_blank">Upon Request</a></Button>
                 </CardActions>
               </Card>
 
