@@ -13,6 +13,17 @@ class Projects extends Component{
         if(this.state.activeTab === 0){
           return(
             <div className="projects-grid">
+
+              <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/PacMan-AI/main/pacman.jpg) center / cover'}} >PacMan-AI</CardTitle>
+                <CardText>
+                Applying search and RL techniques to the Pac-Man video game using Python
+                </CardText>
+                <CardActions border style={{textAlign: 'center'}}>
+                  <Button colored ><a href="https://github.com/ramzihaddad12/PacMan-AI" target="_blank">GitHub</a></Button>
+                </CardActions>
+              </Card>
+
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/Convex-Optimization/main/Optimized%20Avoidance.jpg) center / cover'}} >Convex Optimization</CardTitle>
                 <CardText>
@@ -42,7 +53,37 @@ class Projects extends Component{
           )
         } else if(this.state.activeTab === 1) {
           return (
-            <div><h1>Java coming soon</h1></div>
+            <div>
+              <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://apk-s.io/wp-content/uploads/2020/12/Maze-Dungeon-Labyrinth-Game-Maze-Puzzle-Game-6.png) center / cover'}} >Maze Game</CardTitle>
+                <CardText>
+                An action maze chase game using the MVC pattern in Java
+                </CardText>
+                <CardActions border style={{textAlign: 'center'}}>
+                  <Button colored >Upon Request</Button>
+                </CardActions>
+              </Card>
+
+              <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://img.favpng.com/13/18/18/automated-teller-machine-what-s-inside-the-box-bank-symbol-png-favpng-DV201A2S1CVbLVyLwdGC7BD9M.jpg) center / cover'}} >ATM System</CardTitle>
+                <CardText>
+                A Bank ATM System using Object Oriented Programming (OOP) in Java
+                </CardText>
+                <CardActions border style={{textAlign: 'center'}}>
+                  <Button colored ><a href="https://github.com/ramzihaddad12/ATMSystem" target="_blank">GitHub</a></Button>
+                </CardActions>
+              </Card>
+
+              <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://www.bluewhyte.com/assets/images/school-management-icon.png) center / cover'}} >School Management System</CardTitle>
+                <CardText>
+                A coordinated and organized system to manage a school's finances in terms of student tuition and teacher salaries using Object Oriented Programming in Java
+                </CardText>
+                <CardActions border style={{textAlign: 'center'}}>
+                  <Button colored ><a href="https://github.com/ramzihaddad12/SchoolManagementSystem" target="_blank">GitHub</a></Button>
+                </CardActions>
+              </Card>
+            </div>
           )
         } else if(this.state.activeTab === 2) {
           return (
