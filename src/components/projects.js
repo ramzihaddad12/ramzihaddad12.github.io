@@ -55,13 +55,13 @@ class Projects extends Component{
           return (
             <div className="projects-grid">
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://apk-s.io/wp-content/uploads/2020/12/Maze-Dungeon-Cover.jpg) center / cover'}} >Maze Game</CardTitle>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://img.favpng.com/13/18/18/automated-teller-machine-what-s-inside-the-box-bank-symbol-png-favpng-DV201A2S1CVbLVyLwdGC7BD9M.jpg) center / cover'}} >Maze Game</CardTitle>
                 <CardText>
                 An action maze chase game using the MVC pattern in Java (Upon Request)
                 </CardText>
-                {/* <CardActions border style={{textAlign: 'center'}}>
+                <CardActions border style={{textAlign: 'center'}}>
                   Upon Request
-                </CardActions> */}
+                </CardActions>
               </Card>
 
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
