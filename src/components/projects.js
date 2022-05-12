@@ -99,6 +99,16 @@ class Projects extends Component{
                 <Button colored ><a href="https://github.com/ramzihaddad12/ramzihaddad12.github.io" target="_blank">GitHub</a></Button>
               </CardActions>
             </Card>
+
+            <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background:'url(https://raw.githubusercontent.com/ramzihaddad12/Quanser-3DOF-Hover-Quadcopter-usingLQR/main/PHOTO-2019-12-03-16-04-56.jpg) center / cover'}} >Stabilizing Quadcopter using LQR</CardTitle>
+              <CardText>
+              FootballDB Website
+              </CardText>
+              <CardActions border style={{textAlign: 'center'}}>
+                <Button colored ><a href="https://github.com/ramzihaddad12/FootballDB" target="_blank">GitHub</a></Button>
+              </CardActions>
+            </Card>
           </div>
           )
         } else if(this.state.activeTab === 3) {
