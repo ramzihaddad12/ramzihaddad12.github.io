@@ -9,8 +9,7 @@ class Aboutme extends Component{
                     
                     <p style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
                         My name is Ramzi Haddad, and I’m a Lebanese-American developer. 
-                        I’m currently a Masters student in Computer Science at Northeastern University where I am 
-                        expanding my horizons and enhancing my software skills to become a better developer.
+                        I am always expanding my horizons and enhancing my software skills to become a better developer.
                         I am passionate about building software applications for the real world from both a frontend and 
                         a backend perspective.
                         {/* Contrary to many folks in the software industry,
