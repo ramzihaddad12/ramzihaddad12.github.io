@@ -101,7 +101,7 @@ class Projects extends Component{
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background:'url(https://scx1.b-cdn.net/csz/news/800a/2021/soccer-field.jpg) center / cover'}} >FootballDB Website</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background:'url(https://scx1.b-cdn.net/csz/news/800a/2021/soccer-field.jpg) center / cover'}} >FootballDB Website</CardTitle>
               <CardText>
               Website displaying football stats
               </CardText>
