@@ -101,9 +101,9 @@ class Projects extends Component{
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background:'url(https://raw.githubusercontent.com/ramzihaddad12/Quanser-3DOF-Hover-Quadcopter-usingLQR/main/PHOTO-2019-12-03-16-04-56.jpg) center / cover'}} >Stabilizing Quadcopter using LQR</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background:'url(https://scx1.b-cdn.net/csz/news/800a/2021/soccer-field.jpg) center / cover'}} >FootballDB Website</CardTitle>
               <CardText>
-              FootballDB Website
+              Website displaying football stats
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
                 <Button colored ><a href="https://github.com/ramzihaddad12/FootballDB" target="_blank">GitHub</a></Button>
