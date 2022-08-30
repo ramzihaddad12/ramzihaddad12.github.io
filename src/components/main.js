@@ -9,6 +9,8 @@ import Hivemate from './hivemate';
 
 
 import {Switch, Route} from 'react-router-dom';
+import { HashRouter as Router } from 'react-router-dom'
+
 // import { Route, Switch } from "react-router";
 
 const Main = () =>(

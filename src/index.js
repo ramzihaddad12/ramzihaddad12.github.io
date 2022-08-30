@@ -5,11 +5,23 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'react-mdl/extra/material.css';
 import 'react-mdl/extra/material.js';
-import { BrowserRouter} from 'react-router-dom';
+import { BrowserRouter, Route, HashRouter} from 'react-router-dom';
+
+import Resume from './components/resume';
+import AboutMe from './components/aboutme';
+import HiveMate from './components/hivemate';
+import Projects from './components/projects';
+import Contact from './components/contact';
+import Main from './components/main';
+
+import { Switch } from 'react-mdl';
+
 ReactDOM.render(
-    <BrowserRouter>
-  <App />
-    </BrowserRouter>
+  <React.StrictMode>
+    <HashRouter>
+      <App />
+    </HashRouter>
+    </React.StrictMode>
      , document.getElementById('root'));
 
 // If you want to start measuring performance in your app, pass a function

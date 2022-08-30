@@ -36,10 +36,15 @@ class Resume extends Component{
                 <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
               </Cell>
               <Cell className="resume-right-col" col={8}>
-                <Document file={ samplePDF }>
-                  <Page pageNumber={1} />
-                </Document>
-    
+                {/* <Document file={ samplePDF }> */}
+                  {/* <Page pageNumber={1} /> */}
+                {/* </Document> */}
+                <embed
+                  src={samplePDF}
+                  type="application/pdf"
+                  height={800}
+                  width={900}
+                />    
               </Cell>
             </Grid>
           </div>
