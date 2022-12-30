@@ -18,7 +18,6 @@ class Aboutme extends Component{
                         <li>Tabs over spaces</li>
                         <li>Linux over everything else</li>
                     </ul>
-                    <br/>
                     The favorites: 
                     <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
                     <li>Favorite number: 1729, the smallest positive number that is the sum of 2 cubes in 2 different ways: (9, 10) and (1, 12). This number, referred to as a taxicab number, has a fascinating <a href = "https://mathworld.wolfram.com/Hardy-RamanujanNumber.html">story</a> 
@@ -32,8 +31,6 @@ class Aboutme extends Component{
                     <br/>
                     <li></li>
                     </ul>
-                        
-                    <br/>
                     In my free time, I enjoy devoting time to football (real football not american football), chess, reading about history, and Alfredo's pizza cafe.</p>
                 </div>
             </div>
