@@ -35,9 +35,9 @@ class Landing extends Component {
             <i className="fa fa-twitter" aria-hidden="true" />
           </a>
 
-          <a href="https://www.instagram.com/ramzih15/" rel="noopener noreferrer" target="_blank">
+          {/* <a href="https://www.instagram.com/ramzih15/" rel="noopener noreferrer" target="_blank">
             <i className="fa fa-instagram" aria-hidden="true" />
-          </a>
+          </a> */}
 
         </div>
             </div>
