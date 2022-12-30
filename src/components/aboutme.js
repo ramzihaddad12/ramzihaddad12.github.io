@@ -10,18 +10,17 @@ class Aboutme extends Component{
                     <p style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>   
                     I acknowledge that this is somewhat optimistic/unrealistic, but I try to view life as a non-zero-sum game, 
                     where everyone can “win”. To me, humility is an essential component to “winning”, and therefore, I always attempt
-                    to be, as Dijkstra puts it, a <a href = "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html" >“Very Humble Programmer”</a>.
+                    to be, as Dijkstra puts it, a <a href = "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html" >"Humble Programmer”</a>.
                     <br/>
                     Here’s where I stand on some of the age-old arguments amongst programmers:
-                    <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
+                    <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingRight: '2em', lineHeight: '1'}}>
                         <li>Vim over Emacs</li>
                         <li>Tabs over spaces</li>
                         <li>Linux over everything else</li>
                     </ul>
                     The favorites: 
-                    <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
-                    <li>Favorite number: 1729, the smallest positive number that is the sum of 2 cubes in 2 different ways: (9, 10) and (1, 12). This number, referred to as a taxicab number, has a fascinating <a href = "https://mathworld.wolfram.com/Hardy-RamanujanNumber.html">story</a> 
-                         involving the mathematics legend that is Ramanujan.</li>
+                    <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingRight: '2em', lineHeight: '1'}}>
+                    <li>Favorite number: 1729, the smallest positive number that is the sum of 2 cubes in 2 different ways: (9, 10) and (1, 12). This number, referred to as a taxicab number, has a fascinating <a href = "https://mathworld.wolfram.com/Hardy-RamanujanNumber.html">story</a> involving the mathematics legend that is Ramanujan.</li>
                     <br/>
                     <li>Favorite data structure: A Bloom filter. Although it’s not a deterministic structure, the <a href = "https://brilliant.org/wiki/bloom-filter/">theory</a> behind a Bloom filter seems pretty cool to me.</li>
                     <br/>
