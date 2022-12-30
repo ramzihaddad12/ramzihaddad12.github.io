@@ -11,7 +11,7 @@ class Aboutme extends Component{
                     I acknowledge that this is somewhat optimistic/unrealistic, but I try to view life as a non-zero-sum game, 
                     where everyone can “win”. To me, humility is an essential component to “winning”, and therefore, I always attempt
                     to be, as Dijkstra puts it, a <a href = "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD340.html" >"Humble Programmer”</a>.
-                    <br/>
+                    <br/><br/>
                     Here’s where I stand on some of the age-old arguments amongst programmers:
                     <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingRight: '2em', lineHeight: '1'}}>
                         <li>Vim over Emacs</li>
