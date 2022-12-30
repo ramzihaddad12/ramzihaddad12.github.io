@@ -17,7 +17,7 @@ class Projects extends Component{
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/PacMan-AI/main/pacman.jpg) center / cover'}} >PacMan-AI</CardTitle>
                 <CardText>
-                Applying search and RL techniques to the Pac-Man video game using Python.
+                Applying search and RL techniques to the Pac-Man video game using Python
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
                   <Button colored ><a href="https://github.com/ramzihaddad12/PacMan-AI" target="_blank">GitHub</a></Button>
@@ -25,9 +25,9 @@ class Projects extends Component{
               </Card>
 
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-                <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://techcrunch.com/wp-content/uploads/2015/06/gifgif.gif) center / cover'}} >GIF Retrieval</CardTitle>
+                <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://techcrunch.com/wp-content/uploads/2015/06/gifgif.gif) center / cover'}} >GIF Retrieval</CardTitle>
                 <CardText>
-                GIF Retrieval search engine.
+                A GIF Retrieval search engine
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
                   <Button colored ><a href="https://github.com/ramzihaddad12/gif-retrieval" target="_blank">GitHub</a></Button>
@@ -37,7 +37,7 @@ class Projects extends Component{
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/Convex-Optimization/main/Optimized%20Avoidance.jpg) center / cover'}} >Convex Optimization</CardTitle>
                 <CardText>
-                Generating collision-free trajectories in 3D space for multiple quadcopters within seconds using Sequential Convex Programming (SCP).
+                Generating collision-free trajectories in 3D space for multiple quadcopters within seconds using Sequential Convex Programming (SCP)
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
                   <Button colored ><a href="https://github.com/ramzihaddad12/Convex-Optimization" target="_blank">GitHub</a></Button>
@@ -47,7 +47,7 @@ class Projects extends Component{
               <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
                 <CardTitle style={{color: '#000000', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/Arabizi-Sentiment-Analysis/main/Solution.jpg) center / cover'}} >Arabizi Sentiment Analysis</CardTitle>
                 <CardText>
-                Translating Arabic Tweets to Arabizi (Arabic using Roman letters) and detecting offensive content in Arabizi using different types of models such as multinomial Naive Bayes, BiLSTM, CNN-LSTM , and pre-trained BERT.
+                Translating Arabic Tweets to Arabizi (Arabic using Roman letters) and detecting offensive content in Arabizi using different types of models such as multinomial Naive Bayes, BiLSTM, CNN-LSTM , and pre-trained BERT
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
                   <Button colored ><a href="https://github.com/ramzihaddad12/Arabizi-Sentiment-Analysis" target="_blank">GitHub</a></Button>
@@ -127,7 +127,7 @@ class Projects extends Component{
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
               <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/Quanser-3DOF-Hover-Quadcopter-usingLQR/main/PHOTO-2019-12-03-16-04-56.jpg) center / cover'}} >Stabilizing Quadcopter using LQR</CardTitle>
               <CardText>
-              Stabilizing and controlling a quadcopter via LQR using MATLAB & Simulink.
+              Stabilizing and controlling a quadcopter via LQR using MATLAB & Simulink
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
@@ -140,7 +140,7 @@ class Projects extends Component{
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
               <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://raw.githubusercontent.com/ramzihaddad12/Quanser-3DOF-Hover-Quadcopter-usingAdaptiveControllers/main/PHOTO2.jpg) center / cover'}} >Stabilizing Quadcopter using MRAC and STR</CardTitle>
               <CardText>
-              Stabilizing and controlling a quadcopter via Adaptive controllers using MATLAB & Simulink.
+              Stabilizing and controlling a quadcopter via Adaptive controllers using MATLAB & Simulink
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
@@ -154,9 +154,9 @@ class Projects extends Component{
           return (
             <div className="projects-grid">
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://www.leaseweb.com/sites/default/files/Images/09_Products/cdn/multicdn.png) center / cover'}} >A Content Delivery Network</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://www.leaseweb.com/sites/default/files/Images/09_Products/cdn/multicdn.png) center / cover'}} >A Content Delivery Network</CardTitle>
               <CardText>
-              A CDN to fetch Wiki content with fast response times based on client's geographical location.
+              A CDN to fetch Wiki content with fast response times based on client's geographical location
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
@@ -166,9 +166,9 @@ class Projects extends Component{
             </Card>
   
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://blog.apnic.net/wp-content/uploads/2017/10/raw-sockets_banner-2-555x202.png?v=9e2eecf063da5d3dd8ffde2f7a58e033) center / cover'}} >Raw sockets</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://blog.apnic.net/wp-content/uploads/2017/10/raw-sockets_banner-2-555x202.png?v=9e2eecf063da5d3dd8ffde2f7a58e033) center / cover'}} >Raw sockets</CardTitle>
               <CardText>
-              Implementing low-level socket programming using Python.
+              Implementing low-level socket programming using Python
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
@@ -177,9 +177,9 @@ class Projects extends Component{
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://cdn-icons-png.flaticon.com/512/3076/3076232.png) center / cover'}} >Webcrawler</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://cdn-icons-png.flaticon.com/512/3076/3076232.png) center / cover'}} >Webcrawler</CardTitle>
               <CardText>
-              Webcrawling a social media site to obtain secret flags.
+              Webcrawling a social media site to obtain secret flags
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
@@ -188,9 +188,9 @@ class Projects extends Component{
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://images.squarespace-cdn.com/content/v1/586ec16bb3db2b558ebfec60/694329ee-2cd8-4786-9406-77ca00f30b07/math-header.jpg?format=1000w) center / cover'}} >Raw sockets</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://images.squarespace-cdn.com/content/v1/586ec16bb3db2b558ebfec60/694329ee-2cd8-4786-9406-77ca00f30b07/math-header.jpg?format=1000w) center / cover'}} >Raw sockets</CardTitle>
               <CardText>
-              Equation Solver via sockets in Python.
+              Equation Solver via sockets in Python
 
               </CardText>
               <CardActions border style={{textAlign: 'center'}}>
