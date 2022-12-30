@@ -154,7 +154,7 @@ class Projects extends Component{
           return (
             <div className="projects-grid">
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://www.leaseweb.com/sites/default/files/Images/09_Products/cdn/multicdn.png) center / cover'}} >A Content Delivery Network</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://www.leaseweb.com/sites/default/files/Images/09_Products/cdn/multicdn.png) center / cover'}} >Content Delivery Network</CardTitle>
               <CardText>
               A CDN to fetch Wiki content with fast response times based on client's geographical location
 
@@ -188,7 +188,7 @@ class Projects extends Component{
             </Card>
 
             <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
-              <CardTitle style={{textAlign: 'center', color: '#000000', height: '176px', background: 'url(https://images.squarespace-cdn.com/content/v1/586ec16bb3db2b558ebfec60/694329ee-2cd8-4786-9406-77ca00f30b07/math-header.jpg?format=1000w) center / cover'}} >Raw sockets</CardTitle>
+              <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://images.squarespace-cdn.com/content/v1/586ec16bb3db2b558ebfec60/694329ee-2cd8-4786-9406-77ca00f30b07/math-header.jpg?format=1000w) center / cover'}} >Equation Solver</CardTitle>
               <CardText>
               Equation Solver via sockets in Python
 

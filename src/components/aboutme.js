@@ -14,15 +14,15 @@ class Aboutme extends Component{
                         a backend perspective. */}
                         
                         I acknowledge that this is somewhat optimistic/unrealistic, but I try to view life as a non-zero-sum game, where everyone can “win”. 
-                        <ul>
+                        <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
                             <li>Vim over Emacs</li>
                             <li>Tabs over spaces</li>
                             <li>Linux over everything else</li>
                         </ul>
 
                         The favorites: 
-                        <ul>
-                        <li>Favorite number: 1729, the smallest positive number that is the sum of 2 cubes in 2 different ways: (9, 10) and (1, 12). This number, referred to as a taxicab number, has a fascinating <a href = "https://mathworld.wolfram.com/Hardy-RamanujanNumber.html">story</a> 
+                        <ul style = {{fontSize: '35px', paddingLeft: '5em', paddingBottom: '10%', paddingRight: '2em', lineHeight: '1'}}>
+                        <li>Favorite number: 1729, the smallest positive number that is the sum of 2 cubes in 2 different ways: (9, 10) and (1, 12). This number, referred to as a taxicab number, has a fascinating <a href = "https://mathworld.wolfram.com/Hardy-RamanujanNumber.html">story </a> 
                             involving the mathematical legend that is Ramanujan.</li>
                         <li>Favorite data structure: A Bloom filter. Although it’s not a deterministic structure, the <a href = "https://brilliant.org/wiki/bloom-filter/">theory</a> behind a Bloom filter seems pretty cool to me.</li>
                         </ul>
