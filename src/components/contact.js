@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Grid, Cell, List, ListItem, ListItemContent} from 'react-mdl';
-import profilepic from './pp.jpg';
+import profilepic from './pp.png';
 
 
 class Contact extends Component{

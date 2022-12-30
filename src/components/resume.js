@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Grid, Cell} from 'react-mdl';
-import profilepic from './pp.jpg';
+import profilepic from './pp.png';
 import samplePDF from './Ramzi_Haddad_Resume.pdf';
 
 import { Document , Page, pdfjs} from 'react-pdf';
