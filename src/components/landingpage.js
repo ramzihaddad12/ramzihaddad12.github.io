@@ -19,7 +19,7 @@ class Landing extends Component {
 
             <hr/>
 
-          <p>Java | C++ | Python | ML/AI </p>
+          <p>Java | C++ | IoT | ML/AI </p>
 
         <div className="social-links">
 
