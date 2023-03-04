@@ -3,7 +3,7 @@ import React, {Component} from 'react'
 class Aboutme extends Component{
     render(){
         return(
-            <div style = {{marginTop: '-25px',paddingTop: '-5px', height: '100%', background: 'url("https://wallpapercave.com/wp/wp7666360.jpg")  center / cover'}}>
+            <div style = {{marginTop: '-25px',paddingTop: '-5px', height: '100%', backgroundColor: 'lightgray'}}>
                 <div style ={{fontFamily: 'monospace'}}>
                     <h2 style = {{fontFamily: 'monospace', fontSize: '55px', paddingLeft: '1em'}}> About Me</h2>
                     

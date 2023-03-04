@@ -18,7 +18,7 @@ function App () {
     <Layout>
         <Header className = "header-color" title="Ramzi Haddad" scroll>
             <Navigation>
-              <Link to="/resume">Resume</Link>
+              {/* <Link to="/resume">Resume</Link> */}
               <Link to="/aboutme">About Me</Link>
               <Link to="/hivemate">HiveMate</Link>
               <Link to="/projects">Projects</Link>
@@ -27,7 +27,7 @@ function App () {
         </Header>
         <Drawer title="Ramzi Haddad">
             <Navigation>
-              <Link to="/resume">Resume</Link>
+              {/* <Link to="/resume">Resume</Link> */}
               <Link to="/aboutme">About Me</Link>
               <Link to="/hivemate">HiveMate</Link>
               <Link to="/projects">Projects</Link>
