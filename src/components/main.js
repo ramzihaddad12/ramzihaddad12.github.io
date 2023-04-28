@@ -7,7 +7,6 @@ import Resume from './resume';
 import Hivemate from './hivemate';
 
 
-
 import {Switch, Route} from 'react-router-dom';
 import { HashRouter as Router } from 'react-router-dom'
 

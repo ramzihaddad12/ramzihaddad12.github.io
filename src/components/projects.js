@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
 
-class Projects extends Component{
+class WorkExperience extends Component{
 
     constructor(props){
         super(props);
@@ -71,7 +71,7 @@ class Projects extends Component{
                 An action maze chase game using the MVC pattern in Java
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                Upon Request
+                    <Button colored ><a href="https://github.com/ramzihaddad12/MazeGame" target="_blank">GitHub</a></Button>
                 </CardActions>
               </Card>
 
@@ -125,7 +125,7 @@ class Projects extends Component{
                     MERN application mimicking spotify using SpotifyAPI
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                    <Button colored ><a href="https://github.com/ramzihaddad12/spotify-mern" target="_blank">GitHub</a></Button>
+                    <Button colored ><a href="https://github.com/ramzihaddad12/spotify-frontend" target="_blank">GitHub</a></Button>
                 </CardActions>
             </Card>
 
@@ -216,6 +216,17 @@ class Projects extends Component{
                 <Button colored ><a href="https://github.com/ramzihaddad12/socket-basics" target="_blank">GitHub</a></Button>
               </CardActions>
             </Card>
+                <br /><br /><br /><br />
+            <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
+                <CardTitle style={{textAlign: 'center', color: '#fff', height: '176px', background: 'url(https://cdn.allthings.how/wp-content/uploads/2021/10/allthings.how-how-to-use-the-new-paint-app-on-windows-11-microsoft-paint-logo.png) center / cover'}} >Paint Application</CardTitle>
+                <CardText>
+                    Paint Application using SDL and sockets in DLang
+
+                </CardText>
+                <CardActions border style={{textAlign: 'center'}}>
+                    <Button colored ><a href="https://github.com/Spring23FSE/finalproject-rage" target="_blank">GitHub</a></Button>
+                </CardActions>
+            </Card>
           </div>
           )
         }
@@ -245,4 +256,4 @@ class Projects extends Component{
     }
 }
 
-export default Projects;
+export default WorkExperience;

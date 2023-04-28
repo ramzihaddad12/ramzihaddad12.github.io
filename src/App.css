@@ -102,6 +102,8 @@
 
 .projects-grid {
   display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
 
 .contact-body {

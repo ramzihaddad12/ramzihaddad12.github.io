@@ -16,18 +16,20 @@ function App () {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header className = "header-color" title="Ramzi Haddad" scroll>
+            <Header title={<a href="/">Title</a>} className = "header-color" title="Ramzi Haddad" scroll>
+
             <Navigation>
-              {/* <Link to="/resume">Resume</Link> */}
+               {/*<Link to="/resume">Resume</Link>*/}
               <Link to="/aboutme">About Me</Link>
               <Link to="/hivemate">HiveMate</Link>
               <Link to="/projects">Projects</Link>
-              <Link to="/contact">Contact</Link>          
+              <Link to="/contact">Contact</Link>
             </Navigation>
         </Header>
         <Drawer title="Ramzi Haddad">
             <Navigation>
-              {/* <Link to="/resume">Resume</Link> */}
+
+                {/*<Link to="/resume">Resume</Link>*/}
               <Link to="/aboutme">About Me</Link>
               <Link to="/hivemate">HiveMate</Link>
               <Link to="/projects">Projects</Link>

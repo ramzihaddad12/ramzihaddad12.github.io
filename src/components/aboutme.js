@@ -24,6 +24,8 @@ class Aboutme extends Component{
                     <br/>
                     <li>Favorite data structure: A Bloom filter. Although it’s not a deterministic structure, the <a href = "https://brilliant.org/wiki/bloom-filter/">theory</a> behind a Bloom filter seems pretty cool to me.</li>
                     <br/>
+                    <li>Favorite algorithm: PageRank. I have a deep appreciation for the simplicity and elegance of this ranking <a href = "https://en.wikipedia.org/wiki/PageRank">algorithm</a> that built the foundations of Google.</li>
+                    <br/>
                     <li>Favorite random story: A very interesting <a href = "http://calteches.library.caltech.edu/4106/1/Samos.pdf">method</a> of how ancient Greeks managed to dig a tunnel through a mountain using right triangles in the 6th century B.C.</li>
                     <br/>
                     <li>Favorite song: I don’t really have a favorite song, but <a href = "https://open.spotify.com/playlist/1omuUOn3egTYwxb6QQv2pK?si=d48050e8bf21480b">here’s</a> a playlist I listen to often, especially useful for, what Cal Newport describes as, “deep work”.</li>
