@@ -224,7 +224,7 @@ class WorkExperience extends Component{
 
                 </CardText>
                 <CardActions border style={{textAlign: 'center'}}>
-                    <Button colored ><a href="https://github.com/Spring23FSE/finalproject-rage" target="_blank">GitHub</a></Button>
+                    <Button colored ><a href="https://github.com/ramzihaddad12/paintapp" target="_blank">GitHub</a></Button>
                 </CardActions>
             </Card>
           </div>
